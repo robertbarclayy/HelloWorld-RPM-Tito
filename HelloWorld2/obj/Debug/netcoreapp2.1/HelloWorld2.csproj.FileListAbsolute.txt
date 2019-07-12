@@ -1,0 +1,11 @@
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\bin\Debug\netcoreapp2.1\HelloWorld2.deps.json
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\bin\Debug\netcoreapp2.1\HelloWorld2.runtimeconfig.json
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\bin\Debug\netcoreapp2.1\HelloWorld2.runtimeconfig.dev.json
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\bin\Debug\netcoreapp2.1\HelloWorld2.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\bin\Debug\netcoreapp2.1\HelloWorld2.pdb
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\obj\Debug\netcoreapp2.1\HelloWorld2.csprojAssemblyReference.cache
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\obj\Debug\netcoreapp2.1\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\obj\Debug\netcoreapp2.1\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\obj\Debug\netcoreapp2.1\HelloWorld2.AssemblyInfo.cs
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\obj\Debug\netcoreapp2.1\HelloWorld2.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\HelloWorld2\obj\Debug\netcoreapp2.1\HelloWorld2.pdb

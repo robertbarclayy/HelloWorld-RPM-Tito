@@ -1,0 +1,17 @@
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\HelloWorld2.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\bin\Debug\netcoreapp2.1\HelloWorld2.pdb
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\robert.barclay\Documents\Tito test\HelloWorld-RPM-Tito\Test\obj\Debug\netcoreapp2.1\Test.pdb
